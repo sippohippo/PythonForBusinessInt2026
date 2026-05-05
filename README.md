@@ -12,6 +12,7 @@ This repo contains materials for the course Python Programming for Business Inte
 ├── exercises/      # Weekly exercises and solutions
 ├── assignments/    # Instructions for the assignments
 └── project/        # Instructions for the final project
+└── exam/           # Notebook and data for the exam
 ```
 
 ## Contact
